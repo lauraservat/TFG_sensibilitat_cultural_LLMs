@@ -1,0 +1,2 @@
+model,taxa_invalids_pct,passa_invalids,position_bias_pct,passa_bias,baseline_valid,resultat
+Llama-4-Scout-FP8,0.0,True,10.9,True,True,Analitzable

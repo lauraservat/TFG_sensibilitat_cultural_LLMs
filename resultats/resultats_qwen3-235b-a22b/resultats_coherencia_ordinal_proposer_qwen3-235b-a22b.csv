@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+qwen3-235b-a22b,1,baseline,0.0
+qwen3-235b-a22b,2,asia,
+qwen3-235b-a22b,2,neo_europe,
+qwen3-235b-a22b,2,south_america,0.0
+qwen3-235b-a22b,3,asia,
+qwen3-235b-a22b,3,neo_europe,
+qwen3-235b-a22b,3,south_america,

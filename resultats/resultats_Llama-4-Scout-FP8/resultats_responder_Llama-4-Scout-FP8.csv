@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+Llama-4-Scout-FP8,2,asia,0.3631,0.1198,-0.1545,30.0,20.0,True
+Llama-4-Scout-FP8,2,neo_europe,0.0302,0.1724,0.0091,10.0,0.0,True
+Llama-4-Scout-FP8,2,south_america,0.0769,0.0032,-0.0273,10.0,0.0,True
+Llama-4-Scout-FP8,3,asia,0.6174,0.4993,-0.4227,,,False
+Llama-4-Scout-FP8,3,neo_europe,0.2722,0.0488,-0.1364,30.0,20.0,True
+Llama-4-Scout-FP8,3,south_america,0.2864,1.7027,0.0864,0.0,,True

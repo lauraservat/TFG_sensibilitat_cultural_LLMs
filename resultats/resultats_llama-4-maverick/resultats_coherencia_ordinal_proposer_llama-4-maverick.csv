@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+llama-4-maverick,1,baseline,
+llama-4-maverick,2,asia,
+llama-4-maverick,2,neo_europe,
+llama-4-maverick,2,south_america,
+llama-4-maverick,3,asia,
+llama-4-maverick,3,neo_europe,
+llama-4-maverick,3,south_america,0.1

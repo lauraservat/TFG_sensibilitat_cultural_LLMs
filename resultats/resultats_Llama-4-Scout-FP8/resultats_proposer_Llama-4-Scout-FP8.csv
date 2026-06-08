@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+Llama-4-Scout-FP8,2,asia,0.3118,0.4753,0.125,0.9375,0.725
+Llama-4-Scout-FP8,2,neo_europe,0.254,0.5175,0.13,0.9375,0.55
+Llama-4-Scout-FP8,2,south_america,0.3033,0.8021,0.13,0.925,0.6
+Llama-4-Scout-FP8,3,asia,0.4967,2.0706,0.355,1.0,0.05
+Llama-4-Scout-FP8,3,neo_europe,0.496,1.9675,0.36,1.0,0.05
+Llama-4-Scout-FP8,3,south_america,0.6097,0.4249,-0.525,0.1375,0.9

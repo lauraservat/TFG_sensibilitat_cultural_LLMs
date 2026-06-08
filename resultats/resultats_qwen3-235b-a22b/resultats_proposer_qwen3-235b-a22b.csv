@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+qwen3-235b-a22b,2,asia,0.162,0.0347,0.055,0.95,0.25
+qwen3-235b-a22b,2,neo_europe,0.1225,0.0238,0.02,0.9875,0.425
+qwen3-235b-a22b,2,south_america,0.1323,0.0178,0.07,0.9875,0.3
+qwen3-235b-a22b,3,asia,0.2954,0.0784,0.175,1.0,0.0
+qwen3-235b-a22b,3,neo_europe,0.2954,0.0784,0.175,1.0,0.0
+qwen3-235b-a22b,3,south_america,0.8062,0.9293,-0.77,0.1125,0.975

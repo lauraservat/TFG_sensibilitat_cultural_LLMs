@@ -1,0 +1,2 @@
+model,taxa_invalids_pct,passa_invalids,position_bias_pct,passa_bias,baseline_valid,resultat
+qwen3-235b-a22b,0.0,True,1.4,True,True,Analitzable

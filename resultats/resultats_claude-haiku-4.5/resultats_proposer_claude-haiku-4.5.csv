@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+claude-haiku-4.5,2,asia,0.1581,0.018,0.05,1.0,0.0
+claude-haiku-4.5,2,neo_europe,0.1581,0.0541,-0.05,1.0,0.5
+claude-haiku-4.5,2,south_america,0.0,0.0,0.0,1.0,0.25
+claude-haiku-4.5,3,asia,0.1581,0.018,0.05,1.0,0.0
+claude-haiku-4.5,3,neo_europe,0.1581,0.018,0.05,1.0,0.0
+claude-haiku-4.5,3,south_america,0.3782,0.1349,-0.25,0.8,0.75

@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+claude-haiku-4.5,2,asia,0.1508,0.0148,-0.0455,10.0,0.0,True
+claude-haiku-4.5,2,neo_europe,0.0,0.0,0.0,10.0,0.0,True
+claude-haiku-4.5,2,south_america,0.3019,0.1055,-0.0955,20.0,10.0,True
+claude-haiku-4.5,3,asia,0.5436,0.3775,-0.3182,40.0,30.0,True
+claude-haiku-4.5,3,neo_europe,0.2611,0.0402,-0.1364,10.0,0.0,True
+claude-haiku-4.5,3,south_america,0.3015,1.7886,0.0909,0.0,,True

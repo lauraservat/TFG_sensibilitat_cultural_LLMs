@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+Llama-3.1-8B-Instruct,2,asia,0.6216,11.4341,0.2273,,,False
+Llama-3.1-8B-Instruct,2,neo_europe,0.2816,5.2741,0.0136,,,False
+Llama-3.1-8B-Instruct,2,south_america,0.6376,13.7449,0.1227,,,False
+Llama-3.1-8B-Instruct,3,asia,0.4767,1.2528,-0.2727,100.0,50.0,True
+Llama-3.1-8B-Instruct,3,neo_europe,0.5,5.7404,-0.1364,,,False
+Llama-3.1-8B-Instruct,3,south_america,0.6153,14.4102,0.0818,,,False

@@ -1,0 +1,2 @@
+model,ref_oosterbeek_40,p_inf_baseline,p_sup_baseline,p_10vs40,p_20vs40,p_30vs40,p_35vs40,p_40vs50,p_40vs60
+gpt-5-mini,40.0,0.425,1.0,0.95,0.7,0.05,0.0,0.0,0.0

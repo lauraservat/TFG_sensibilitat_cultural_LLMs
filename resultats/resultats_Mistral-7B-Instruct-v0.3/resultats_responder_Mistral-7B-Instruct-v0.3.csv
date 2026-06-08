@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+Mistral-7B-Instruct-v0.3,2,asia,0.4356,,,,,False
+Mistral-7B-Instruct-v0.3,2,neo_europe,0.7071,,,,,False
+Mistral-7B-Instruct-v0.3,2,south_america,0.5831,,,,,False
+Mistral-7B-Instruct-v0.3,3,asia,0.6009,,,100.0,40.0,True
+Mistral-7B-Instruct-v0.3,3,neo_europe,0.6236,,,,,False
+Mistral-7B-Instruct-v0.3,3,south_america,0.3333,,,30.0,-30.0,True

@@ -1,0 +1,2 @@
+model,punt_ruptura_baseline,pr_ref_oosterbeek,diff_pr_oosterbeek,corba_valida
+Mistral-Small-24B-Instruct-2501,100.0,20.0,80.0,True

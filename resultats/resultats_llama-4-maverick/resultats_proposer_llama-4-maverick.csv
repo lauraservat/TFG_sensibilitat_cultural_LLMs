@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+llama-4-maverick,2,asia,0.1483,0.111,0.03,0.9125,0.725
+llama-4-maverick,2,neo_europe,0.1628,0.0697,-0.09,0.925,0.9
+llama-4-maverick,2,south_america,0.249,0.2348,-0.12,0.8,0.8
+llama-4-maverick,3,asia,0.539,0.3487,0.41,1.0,0.0
+llama-4-maverick,3,neo_europe,0.539,0.3487,0.41,1.0,0.0
+llama-4-maverick,3,south_america,0.4135,0.2204,-0.36,0.45,1.0

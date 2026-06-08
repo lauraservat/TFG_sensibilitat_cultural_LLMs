@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+claude-haiku-4.5,1,baseline,
+claude-haiku-4.5,2,asia,
+claude-haiku-4.5,2,neo_europe,
+claude-haiku-4.5,2,south_america,
+claude-haiku-4.5,3,asia,
+claude-haiku-4.5,3,neo_europe,
+claude-haiku-4.5,3,south_america,

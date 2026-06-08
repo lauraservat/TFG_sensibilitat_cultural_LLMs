@@ -1,0 +1,7 @@
+model,fase,region,p_valor
+qwen3-235b-a22b,2,asia,0.675
+qwen3-235b-a22b,2,neo_europe,0.045
+qwen3-235b-a22b,2,south_america,0.0
+qwen3-235b-a22b,3,asia,0.0
+qwen3-235b-a22b,3,neo_europe,0.257
+qwen3-235b-a22b,3,south_america,0.0

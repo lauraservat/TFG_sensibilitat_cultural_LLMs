@@ -1,0 +1,7 @@
+model,fase,region,p_valor
+gpt-5-mini,2,asia,0.708
+gpt-5-mini,2,neo_europe,0.847
+gpt-5-mini,2,south_america,0.076
+gpt-5-mini,3,asia,0.0
+gpt-5-mini,3,neo_europe,0.0
+gpt-5-mini,3,south_america,0.0

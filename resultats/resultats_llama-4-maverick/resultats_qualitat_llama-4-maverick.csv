@@ -1,0 +1,2 @@
+model,taxa_invalids_pct,passa_invalids,position_bias_pct,passa_bias,baseline_valid,resultat
+llama-4-maverick,0.0,True,15.0,True,True,Analitzable

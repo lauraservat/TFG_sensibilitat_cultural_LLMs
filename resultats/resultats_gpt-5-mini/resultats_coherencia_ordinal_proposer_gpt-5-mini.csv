@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+gpt-5-mini,1,baseline,
+gpt-5-mini,2,asia,
+gpt-5-mini,2,neo_europe,
+gpt-5-mini,2,south_america,
+gpt-5-mini,3,asia,
+gpt-5-mini,3,neo_europe,
+gpt-5-mini,3,south_america,

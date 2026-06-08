@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+Llama-3.1-8B-Instruct,1,baseline,0.0
+Llama-3.1-8B-Instruct,2,asia,0.85
+Llama-3.1-8B-Instruct,2,neo_europe,0.4
+Llama-3.1-8B-Instruct,2,south_america,0.45
+Llama-3.1-8B-Instruct,3,asia,0.45
+Llama-3.1-8B-Instruct,3,neo_europe,0.65
+Llama-3.1-8B-Instruct,3,south_america,0.45

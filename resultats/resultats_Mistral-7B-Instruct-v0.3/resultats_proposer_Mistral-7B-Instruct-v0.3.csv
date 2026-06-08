@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+Mistral-7B-Instruct-v0.3,2,asia,0.3403,10.9338,0.1525,0.2625,0.5
+Mistral-7B-Instruct-v0.3,2,neo_europe,0.2901,20.2124,-0.0167,0.0,
+Mistral-7B-Instruct-v0.3,2,south_america,0.5747,13.5356,0.315,0.3625,0.25
+Mistral-7B-Instruct-v0.3,3,asia,0.8251,10.7483,0.765,1.0,0.975
+Mistral-7B-Instruct-v0.3,3,neo_europe,0.7678,11.3175,0.71,0.75,0.75
+Mistral-7B-Instruct-v0.3,3,south_america,0.3742,7.5503,0.26,0.4,0.25

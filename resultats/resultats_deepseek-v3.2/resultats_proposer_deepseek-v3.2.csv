@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+deepseek-v3.2,2,asia,0.2937,0.0397,0.225,1.0,0.075
+deepseek-v3.2,2,neo_europe,0.1378,0.0082,0.1,0.975,0.225
+deepseek-v3.2,2,south_america,0.2214,0.0268,0.16,0.9875,0.225
+deepseek-v3.2,3,asia,0.3244,0.0478,0.245,1.0,0.0
+deepseek-v3.2,3,neo_europe,0.3244,0.0478,0.245,1.0,0.0
+deepseek-v3.2,3,south_america,0.5945,0.5569,-0.5572,0.4306,0.975

@@ -1,0 +1,2 @@
+model,taxa_invalids_pct,passa_invalids,position_bias_pct,passa_bias,baseline_valid,resultat
+gpt-5-mini,0.2,True,2.0,True,True,Analitzable

@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+llama-4-maverick,2,asia,0.1098,0.0206,-0.0409,30.0,0.0,True
+llama-4-maverick,2,neo_europe,0.0151,0.0013,0.0045,30.0,0.0,True
+llama-4-maverick,2,south_america,0.1098,0.0206,-0.0409,30.0,0.0,True
+llama-4-maverick,3,asia,0.2747,0.0995,-0.1,40.0,10.0,True
+llama-4-maverick,3,neo_europe,0.1108,0.1294,-0.0364,30.0,0.0,True
+llama-4-maverick,3,south_america,0.5054,3.6712,0.2636,0.0,,True

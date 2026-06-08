@@ -1,0 +1,2 @@
+model,taxa_invalids_pct,passa_invalids,position_bias_pct,passa_bias,baseline_valid,resultat
+Mistral-Small-24B-Instruct-2501,27.1,False,45.6,False,True,Exclòs

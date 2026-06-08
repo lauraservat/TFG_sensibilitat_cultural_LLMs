@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+Mistral-Small-24B-Instruct-2501,1,baseline,
+Mistral-Small-24B-Instruct-2501,2,asia,0.7
+Mistral-Small-24B-Instruct-2501,2,neo_europe,
+Mistral-Small-24B-Instruct-2501,2,south_america,
+Mistral-Small-24B-Instruct-2501,3,asia,0.4
+Mistral-Small-24B-Instruct-2501,3,neo_europe,0.0088
+Mistral-Small-24B-Instruct-2501,3,south_america,

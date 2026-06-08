@@ -1,0 +1,2 @@
+model,punt_ruptura_baseline,pr_ref_oosterbeek,diff_pr_oosterbeek,corba_valida
+Mistral-7B-Instruct-v0.3,60.0,20.0,40.0,False

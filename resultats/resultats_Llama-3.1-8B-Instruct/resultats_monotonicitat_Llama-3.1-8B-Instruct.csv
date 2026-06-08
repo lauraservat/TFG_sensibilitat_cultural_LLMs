@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions,corba_valida
+Llama-3.1-8B-Instruct,1,baseline,0.45,False
+Llama-3.1-8B-Instruct,2,asia,0.45,False
+Llama-3.1-8B-Instruct,2,neo_europe,0.85,False
+Llama-3.1-8B-Instruct,2,south_america,1.3,False
+Llama-3.1-8B-Instruct,3,asia,0.0,True
+Llama-3.1-8B-Instruct,3,neo_europe,0.95,False
+Llama-3.1-8B-Instruct,3,south_america,1.85,False

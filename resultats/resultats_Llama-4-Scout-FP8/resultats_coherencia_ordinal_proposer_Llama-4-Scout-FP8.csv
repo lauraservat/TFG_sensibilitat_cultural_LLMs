@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+Llama-4-Scout-FP8,1,baseline,
+Llama-4-Scout-FP8,2,asia,0.05
+Llama-4-Scout-FP8,2,neo_europe,
+Llama-4-Scout-FP8,2,south_america,
+Llama-4-Scout-FP8,3,asia,
+Llama-4-Scout-FP8,3,neo_europe,
+Llama-4-Scout-FP8,3,south_america,

@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+gpt-5-mini,2,asia,0.0337,0.1735,0.0045,10.0,0.0,True
+gpt-5-mini,2,neo_europe,0.0151,0.0832,0.0045,10.0,0.0,True
+gpt-5-mini,2,south_america,0.0219,0.0884,0.0002,10.0,0.0,True
+gpt-5-mini,3,asia,0.448,0.2372,-0.2321,30.0,20.0,True
+gpt-5-mini,3,neo_europe,0.1869,0.9649,-0.0057,0.0,,True
+gpt-5-mini,3,south_america,0.3015,1.7886,0.0909,0.0,,True

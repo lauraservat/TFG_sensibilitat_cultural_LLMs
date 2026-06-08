@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+Llama-3.1-8B-Instruct,2,asia,0.5074,0.6697,0.01,0.4125,0.25
+Llama-3.1-8B-Instruct,2,neo_europe,0.4631,0.699,-0.06,0.2375,0.5
+Llama-3.1-8B-Instruct,2,south_america,0.5182,0.4002,0.34,0.875,0.75
+Llama-3.1-8B-Instruct,3,asia,0.4796,0.308,0.3,0.875,0.525
+Llama-3.1-8B-Instruct,3,neo_europe,0.5408,0.4417,0.32,0.8125,0.75
+Llama-3.1-8B-Instruct,3,south_america,0.4819,1.1248,-0.245,0.3,0.25

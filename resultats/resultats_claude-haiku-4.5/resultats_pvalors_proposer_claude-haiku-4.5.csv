@@ -1,0 +1,7 @@
+model,fase,region,p_valor
+claude-haiku-4.5,2,asia,0.0
+claude-haiku-4.5,2,neo_europe,0.0
+claude-haiku-4.5,2,south_america,1.0
+claude-haiku-4.5,3,asia,0.0
+claude-haiku-4.5,3,neo_europe,0.0
+claude-haiku-4.5,3,south_america,0.0

@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+deepseek-v3.2,1,baseline,
+deepseek-v3.2,2,asia,
+deepseek-v3.2,2,neo_europe,
+deepseek-v3.2,2,south_america,
+deepseek-v3.2,3,asia,
+deepseek-v3.2,3,neo_europe,
+deepseek-v3.2,3,south_america,

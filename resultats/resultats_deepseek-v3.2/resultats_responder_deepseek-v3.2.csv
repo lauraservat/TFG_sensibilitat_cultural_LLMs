@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+deepseek-v3.2,2,asia,0.278,0.0975,-0.1,20.0,10.0,True
+deepseek-v3.2,2,neo_europe,0.2633,0.0756,-0.0955,20.0,10.0,True
+deepseek-v3.2,2,south_america,0.205,0.0347,-0.0773,20.0,10.0,True
+deepseek-v3.2,3,asia,0.4693,0.2646,-0.2682,40.0,30.0,True
+deepseek-v3.2,3,neo_europe,0.196,0.0287,-0.0864,20.0,10.0,True
+deepseek-v3.2,3,south_america,0.303,1.7882,0.1,0.0,,True

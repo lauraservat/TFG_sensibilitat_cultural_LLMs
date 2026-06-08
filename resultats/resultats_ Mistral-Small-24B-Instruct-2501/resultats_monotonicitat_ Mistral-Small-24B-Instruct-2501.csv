@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions,corba_valida
+ Mistral-Small-24B-Instruct-2501,1,baseline,0.0,True
+ Mistral-Small-24B-Instruct-2501,2,asia,0.45,False
+ Mistral-Small-24B-Instruct-2501,2,neo_europe,0.0,True
+ Mistral-Small-24B-Instruct-2501,2,south_america,0.85,False
+ Mistral-Small-24B-Instruct-2501,3,asia,0.8,False
+ Mistral-Small-24B-Instruct-2501,3,neo_europe,0.75,False
+ Mistral-Small-24B-Instruct-2501,3,south_america,0.8278,False

@@ -1,0 +1,2 @@
+model,punt_ruptura_baseline,pr_ref_oosterbeek,diff_pr_oosterbeek,corba_valida
+gpt-5-mini,10.0,20.0,-10.0,True

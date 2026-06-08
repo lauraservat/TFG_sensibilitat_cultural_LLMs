@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+Mistral-7B-Instruct-v0.3,1,baseline,0.2
+Mistral-7B-Instruct-v0.3,2,asia,0.45
+Mistral-7B-Instruct-v0.3,2,neo_europe,
+Mistral-7B-Instruct-v0.3,2,south_america,0.4
+Mistral-7B-Instruct-v0.3,3,asia,
+Mistral-7B-Instruct-v0.3,3,neo_europe,0.45
+Mistral-7B-Instruct-v0.3,3,south_america,

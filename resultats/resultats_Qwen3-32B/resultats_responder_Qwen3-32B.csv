@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
+Qwen3-32B,2,asia,0.1375,0.0127,-0.0404,10.0,0.0,True
+Qwen3-32B,2,neo_europe,0.0532,0.0022,0.0082,10.0,0.0,True
+Qwen3-32B,2,south_america,0.1557,0.0168,-0.0567,20.0,10.0,True
+Qwen3-32B,3,asia,0.4635,0.3165,-0.2631,40.0,30.0,True
+Qwen3-32B,3,neo_europe,0.0729,0.0024,-0.0449,20.0,10.0,True
+Qwen3-32B,3,south_america,0.3311,1.7963,0.1369,0.0,,True

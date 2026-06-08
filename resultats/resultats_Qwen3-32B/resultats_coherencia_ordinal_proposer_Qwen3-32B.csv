@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions_ordinals
+Qwen3-32B,1,baseline,
+Qwen3-32B,2,asia,
+Qwen3-32B,2,neo_europe,
+Qwen3-32B,2,south_america,
+Qwen3-32B,3,asia,
+Qwen3-32B,3,neo_europe,
+Qwen3-32B,3,south_america,0.0553

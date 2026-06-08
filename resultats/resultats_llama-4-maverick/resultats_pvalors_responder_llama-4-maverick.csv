@@ -1,0 +1,7 @@
+model,fase,region,p_valor
+llama-4-maverick,2,asia,0.008
+llama-4-maverick,2,neo_europe,1.0
+llama-4-maverick,2,south_america,0.006
+llama-4-maverick,3,asia,0.0
+llama-4-maverick,3,neo_europe,0.006
+llama-4-maverick,3,south_america,0.0

@@ -1,0 +1,7 @@
+model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,p_inf,p_sup
+Mistral-Small-24B-Instruct-2501,2,asia,0.5,0.0,0.5,0.4375,0.5
+Mistral-Small-24B-Instruct-2501,2,neo_europe,,,,0.0,
+Mistral-Small-24B-Instruct-2501,2,south_america,0.5,0.0,0.5,0.5,0.5
+Mistral-Small-24B-Instruct-2501,3,asia,1.0,0.0,1.0,0.8625,0.75
+Mistral-Small-24B-Instruct-2501,3,neo_europe,1.0,0.0,1.0,0.9625,0.75
+Mistral-Small-24B-Instruct-2501,3,south_america,0.0,0.0,0.0,0.0125,0.0

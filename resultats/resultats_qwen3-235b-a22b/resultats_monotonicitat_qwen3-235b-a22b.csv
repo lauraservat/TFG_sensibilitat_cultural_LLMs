@@ -1,0 +1,8 @@
+model,fase,region,magnitud_violacions,corba_valida
+qwen3-235b-a22b,1,baseline,0.0,True
+qwen3-235b-a22b,2,asia,0.0,True
+qwen3-235b-a22b,2,neo_europe,0.0,True
+qwen3-235b-a22b,2,south_america,0.0,True
+qwen3-235b-a22b,3,asia,0.0,True
+qwen3-235b-a22b,3,neo_europe,0.0,True
+qwen3-235b-a22b,3,south_america,0.0,True
