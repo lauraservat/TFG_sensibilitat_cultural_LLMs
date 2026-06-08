@@ -15,6 +15,7 @@ TFG_sensibilitat_cultural_LLMs/
 ├── analysis.py                 # Càlcul de mètriques, test de permutacions i criteris d'exclusió
 ├── grafics.py                  # Generació de figures per als resultats
 ├── dades/                      # CSVs de resultats per a cada model
+├── grafics/                    # Figures generades (PNG)
 └── resultats/                  # Figures i taules generades per l'anàlisi
 ```
 
