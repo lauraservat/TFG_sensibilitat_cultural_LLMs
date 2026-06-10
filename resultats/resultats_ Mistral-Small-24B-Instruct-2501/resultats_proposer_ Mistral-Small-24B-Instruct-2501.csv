@@ -1,7 +1,0 @@
-model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline
- Mistral-Small-24B-Instruct-2501,2,asia,0.3395,3.3138,0.115
- Mistral-Small-24B-Instruct-2501,2,neo_europe,0.2429,1.7681,0.07
- Mistral-Small-24B-Instruct-2501,2,south_america,0.1643,1.7935,0.05
- Mistral-Small-24B-Instruct-2501,3,asia,0.4492,2.6252,0.2544
- Mistral-Small-24B-Instruct-2501,3,neo_europe,0.3927,0.0188,0.3492
- Mistral-Small-24B-Instruct-2501,3,south_america,0.4528,1.335,-0.35

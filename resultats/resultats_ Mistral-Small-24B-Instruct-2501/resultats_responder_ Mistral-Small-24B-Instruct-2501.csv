@@ -1,7 +1,0 @@
-model,fase,region,rmse_vs_baseline,kl_vs_baseline,delta_vs_baseline,punt_ruptura,delta_pr,corba_valida
- Mistral-Small-24B-Instruct-2501,2,asia,,,,,,False
- Mistral-Small-24B-Instruct-2501,2,neo_europe,,,,50.0,,True
- Mistral-Small-24B-Instruct-2501,2,south_america,,,,,,False
- Mistral-Small-24B-Instruct-2501,3,asia,,,,,,False
- Mistral-Small-24B-Instruct-2501,3,neo_europe,,,,,,False
- Mistral-Small-24B-Instruct-2501,3,south_america,,,,,,False
